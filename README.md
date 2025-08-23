@@ -70,7 +70,7 @@ Este repositorio contiene el código fuente para un microsite de portafolio resp
 
 Estoy disponible para trabajar en proyectos de diseño web, ya sea para particulares o empresas. Si necesitas ayuda con el diseño de tu sitio web o tienes algún proyecto en mente, ¡no dudes en contactarme en 
 <br>
-[![Gmail](https://img.shields.io/badge/Email%20personal-white?style=for-the-badge&logo=gmail&logoColor=white&label=ferrancolllopez%40gmail.com&labelColor=black&color=%23EA4335)](mailto:ferrancolllopez@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email%20personal-white?style=for-the-badge&logo=gmail&logoColor=white&label=Lucy24072001%40gmail.com&labelColor=black&color=%23EA4335)](mailto:Lucy24072001@gmail.com)
 
 
 ## Licencia 📜

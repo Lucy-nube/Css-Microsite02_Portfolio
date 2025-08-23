@@ -1,6 +1,3 @@
----
-permalink: /index.html
----
 <h1 align="center" style="color: #0366d6;">
    Responsive-Microsite-Portfolio 📱 💻 🖥
 </h1>
